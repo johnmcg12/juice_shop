@@ -1,0 +1,32 @@
+*.log
+*.out
+build/
+.stryker-tmp/
+vagrant/.vagrant/
+juiceshop.sqlite
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.eml
+out/
+
+# VIM swap files
+*.swp
+
+# Orig from merges
+*.orig
+
+# NPM
+node_modules/
+npm-debug.log.*
+
+# Bower
+app/bower_components/
+
+# App
+dist/
+order_*.pdf
+ftp/uploads/
+assets/
